@@ -39,11 +39,11 @@ Logging in as **John (SysAdmin)**, I observed the ticket properties. Recognizing
 
 To ensure the right hands were on the issue, I reassigned the ticket from general Support to the **Online Banking Department** and assigned it specifically to **Agent Jane Doe**.
 
-<img width="894" height="768" alt="image" src="https://github.com/user-attachments/assets/e81b6a95-cf10-477e-bfb8-7bf4059bac80" />
+- Priority Level <img width="894" height="768" alt="image" src="https://github.com/user-attachments/assets/e81b6a95-cf10-477e-bfb8-7bf4059bac80" />
 <br/>
-<img width="895" height="410" alt="image" src="https://github.com/user-attachments/assets/eb928628-b9e2-4e4d-af4b-5c680f926ecc" />
+- SLA Plan <img width="895" height="410" alt="image" src="https://github.com/user-attachments/assets/eb928628-b9e2-4e4d-af4b-5c680f926ecc" />
 <br/>
-<img width="891" height="454" alt="image" src="https://github.com/user-attachments/assets/06ea614f-cd72-4a36-a206-d18438b789f0" />
+- <img width="891" height="454" alt="image" src="https://github.com/user-attachments/assets/06ea614f-cd72-4a36-a206-d18438b789f0" />
 
 ---
 
