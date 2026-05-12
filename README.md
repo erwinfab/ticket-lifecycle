@@ -27,7 +27,7 @@ This project outlines the full lifecycle of a mission-critical support ticket wi
 
 **Step 1**: **Ticket Intake (End-User Perspective)**
 
-The simulation begins with **Karen**, the head of a banking firm, reporting that her employees are unable to access the online banking portal. This is categorized as a "Report a Problem" topic with a summary stating the entire mobile/online system is down.
+The simulation begins with **Karen**, the head of a banking firm, reporting that her employees are unable to access the online banking portal. This is categorized as a "General Inquery/Other" topic with a summary stating the entire mobile/online system is down.
 
 <img width="889" height="684" alt="image" src="https://github.com/user-attachments/assets/72c0ff37-ea2f-42b5-8815-2294610a30d0" />
 
