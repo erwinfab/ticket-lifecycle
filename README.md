@@ -8,8 +8,6 @@
 ### Executive Summary
 This project outlines the full lifecycle of a mission-critical support ticket within the **osTicket** platform. I simulated a high-pressure service scenario involving a total system outage for a banking client. This walkthrough demonstrates the technical workflow from **initial intake** to **executive communication**, **cross-departmental triage**, and **system restoration**.
 
-***
-
 ### Environments and Technologies Used 
 - **Microsoft Azure** (Virtual Machines/Compute)
 - **Remote Desktop Protocol** (RDP)
