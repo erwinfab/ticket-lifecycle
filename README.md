@@ -82,3 +82,44 @@ I coordinated a **rollback of the changes**, verified system functionality, and 
 
 <img width="810" height="796" alt="image" src="https://github.com/user-attachments/assets/415dfde9-2fad-4f68-b8c1-63d37f5617aa" />
 
+---
+
+### Permission and Escalation Testing
+
+One of the most significant takeaways from this lab was observing how **Role-Based Access Control (RBAC)** affects ticket visibility and system security.
+
+ I tested these boundaries by:
+
+* **Restricted Routing**: Assigning tickets to the **SysAdmins** department and confirming they became inaccessible to general support agents.
+* **Elevated Access**: Using the **Admin Panel** to grant specific "View Access" to an agent, allowing them to monitor a ticket's progress without the ability to modify it.
+* **Cross-Departmental Collaboration**: Using **Teams** to allow agents from different departments to collaborate on the banking outage without changing their permanent departmental permissions.
+
+---
+
+### What This Project Demonstrates
+
+This project highlights a comprehensive set of skills essential for Help Desk, Desktop Support, and Junior System Administration roles:
+
+* **Ticket Triage & Prioritization**: Identifying business impact to set appropriate SLAs.
+* **Department-Based Routing**: Ensuring tickets reach the correct subject matter experts.
+* **Access Control & Permissions**: Troubleshooting visibility issues within the platform.
+* **End-User Communication**: Managing stakeholder expectations during critical outages.
+* **Ticket Lifecycle Management**: Documenting an issue from intake to a verified resolution.
+
+---
+
+### Real-World Help Desk Takeaways
+
+A key lesson from this simulation is that in a production environment, tickets can originate from many sources—web portals, emails, phone calls, or even walk-ups. Regardless of how the request comes in, **documentation is mandatory**.
+
+ Consistent documentation ensures:
+
+1. **Accountability**: Every action taken is timestamped and attributed to an agent.
+2. **Reporting & Metrics**: Management can track average resolution times to ensure SLA compliance.
+3. **Knowledge Base Growth**: Resolved tickets can be used as references for similar future issues, reducing downtime across the organization.
+
+---
+
+### Why I Built This
+
+I created this lifecycle simulation to bridge the gap between technical administration and the day-to-day operations of an enterprise IT team. Understanding the "flow" of a ticket is just as important as understanding the software itself, and this project serves as a proof of concept for my ability to manage both.
