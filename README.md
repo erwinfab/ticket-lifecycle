@@ -27,7 +27,7 @@ This project outlines the full lifecycle of a mission-critical support ticket wi
 
 **Step 1**: **Ticket Intake (End-User Perspective)**
 
-The simulation begins with **Karen**, the head of a banking firm, reporting that her employees are unable to access the online banking portal. This is categorized as a "General Inquery/Other" topic with a summary stating the entire mobile/online system is down.
+The simulation begins with **Karen**, the head of a banking firm, reporting that her employees are unable to access the online banking portal. This is categorized as a "General Inquiry/Other" topic with a summary stating the entire mobile/online system is down.
 
 <img width="889" height="684" alt="image" src="https://github.com/user-attachments/assets/72c0ff37-ea2f-42b5-8815-2294610a30d0" />
 
@@ -62,4 +62,23 @@ As **Jane Doe**, I addressed the outage by coordinating between the banking team
 
 I coordinated a **rollback of the changes**, verified system functionality, and updated the ticket thread with a full post-mortem.
 
+* Reviewed the full ticket history as Jane.
+
+<img width="813" height="703" alt="image" src="https://github.com/user-attachments/assets/1a745eb3-bc33-452b-86dd-5b1a3eb8968b" />
+
+<br/>
+
+* Responded as Jane.
+
+<img width="798" height="632" alt="image" src="https://github.com/user-attachments/assets/28655e6d-0dde-4fca-b10a-7e413557341d" />
+
+<br/>
+
+<img width="809" height="257" alt="image" src="https://github.com/user-attachments/assets/4af40434-b7d3-41a6-b655-8e238c7a006d" />
+
+<br/>
+
+* Resolved issue and closed the ticket.
+
+<img width="810" height="796" alt="image" src="https://github.com/user-attachments/assets/415dfde9-2fad-4f68-b8c1-63d37f5617aa" />
 
