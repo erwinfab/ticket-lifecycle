@@ -39,7 +39,11 @@ Logging in as **John (SysAdmin)**, I observed the ticket properties. Recognizing
 
 To ensure the right hands were on the issue, I reassigned the ticket from general Support to the **Online Banking Department** and assigned it specifically to **Agent Jane Doe**.
 
-<img width="1223" height="769" alt="image" src="https://github.com/user-attachments/assets/3a76d01f-5cad-4828-81bf-de57712f5925" />
+<img width="894" height="768" alt="image" src="https://github.com/user-attachments/assets/e81b6a95-cf10-477e-bfb8-7bf4059bac80" />
+<br/>
+<img width="895" height="410" alt="image" src="https://github.com/user-attachments/assets/eb928628-b9e2-4e4d-af4b-5c680f926ecc" />
+<br/>
+<img width="891" height="454" alt="image" src="https://github.com/user-attachments/assets/06ea614f-cd72-4a36-a206-d18438b789f0" />
 
 ---
 
